@@ -17,3 +17,9 @@ body {
 h3 {
   font-size: 40pt;
 }
+footer {
+  display: block;
+  text-align: center;
+  font-family: Poiret One, Roboto;
+  color: white;
+}
